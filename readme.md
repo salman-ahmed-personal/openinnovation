@@ -64,6 +64,12 @@ Function to run all aggregations and visualizations.
 5. month_sales
 6. avg_sales_per_weather
 
+#### Suggested Aggregations/Analysis:
+1. Location/Region wise product-sales
+2. Least selling products
+3. Personalized suggestions for customers based on their buying pattern
+4. Location-weather wise sales pattern
+
 ## Schema Defs
 #### Schema for transformed data:
 ```bash
